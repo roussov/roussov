@@ -13,7 +13,7 @@ J'ai 26 ans, je suis autodidacte mais je code juste juste pour le plaisir.
 J'approffondis le python à la recherche de modules et de nouvelles technologies.
 J'apprends l'architechture Unix.
 
-Projets réalisés
+Projets
 --------
 Les premiers programmes
 *   Daddy-GO le but de ce script est d'afficher la météo du jour et de la semaine grâce à l'api Open Weather tous sont codés en Python
