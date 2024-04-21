@@ -9,7 +9,7 @@
 
 Présentation
 ------------
-J'ai 26 ans, je suis autodidacte mais je code juste juste pour le plaisir.
+J'ai 27 ans, je suis autodidacte mais je code juste juste pour le plaisir.
 J'approffondis le python à la recherche de modules et de nouvelles technologies.
 J'apprends l'architecture Unix.
 
