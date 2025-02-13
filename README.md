@@ -35,6 +35,6 @@ Objectifs
 * Apprentissage approndi du système Unix
 * Création d'un jeu en langage Basic puis le faire tourner sur l'application Little Computer sur Switch 
 
-©2023 Roussov 
+©2025 Roussov 
 
 
