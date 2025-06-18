@@ -30,7 +30,7 @@ Platon est un éditeur de texte programmable en Rust prenant en charge de nombre
 ![TS](https://img.shields.io/badge/TS-ffffff?logo=rust&style=flat&color=ffffff&logoColor=000000)
 
 
-* more lang...
+* Et bien d'autres...
 
 # PC Optimizer Console - Outil de maintenance Windows
 PC Optimizer Console est un utilitaire open-source développé en langage C pour Windows.
