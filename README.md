@@ -9,29 +9,33 @@
 
 Présentation
 ------------
-J'ai 28 ans, je suis autodidacte mais je code juste juste pour le plaisir.
+Freelance 
 J'approffondis le python à la recherche de modules et de nouvelles technologies.
 J'apprends l'architecture Unix.
 
+
 Projets
 --------
-Les premiers programmes
-*   meteo-py le but de ce script est d'afficher la météo du jour et de la semaine grâce à l'api Open Weather tous sont codés en Python
-*   news c'est un progragmme qui permet d'afficher les news letter grace au module bs4 (beautiful-soup) sur Python puis une     installation du programme via le terminal Bash. Possibilité d'envoyer les résultats par mail par le même principe.
+
+Derniers projets
+
+# Éditeur Platon
+Platon est un éditeur de texte programmable en Rust prenant en charge de nombreux langages. Voici la documentation exhaustive des commandes disponibles en session interactive.
+
+# PC Optimizer Console - Outil de maintenance Windows
+PC Optimizer Console est un utilitaire open-source développé en langage C pour Windows.
 
 
-Derniers programmes 
-
-*   vhelp c'est un repo qui offre la possibilité de se procurer des scripts en Bash pour obtenir des informations systèmes et toutes autres choses
+L’objectif est de fournir un outil léger, facilement compilable, sans dépendances externes, fonctionnant en ligne de commande.
 
 
-*   little-computer repo stocke des codes sources de programmes en Basic utile pour les retravailler sur l'application: Little             Computer / Petit Computer sur 3ds et Switch
 
 Objectifs
 -------
-* Apprentissage du C puis du C++ en vue de créer un Homebrew 3DS
-* Apprentissage approndi du système Unix
-* Création d'un jeu en langage Basic puis le faire tourner sur l'application Little Computer sur Switch 
+* Créer Homebrew 3DS
+* Création utilitaires
+
+
 
 ©2025 Roussov 
 
