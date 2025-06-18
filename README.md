@@ -27,7 +27,7 @@ Platon est un éditeur de texte programmable en Rust prenant en charge de nombre
 ![CPP](https://img.shields.io/badge/CPP-ffffff?logo=cplusplus&style=flat&color=ffffff&logoColor=00599C)
 ![JS](https://img.shields.io/badge/JS-ffffff?logo=javascript&style=flat&color=ffffff&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TS-ffffff?logo=typescript&style=flat&color=ffffff&logoColor=3178C6)
-![TS](https://img.shields.io/badge/TS-ffffff?logo=rust&style=flat&color=ffffff&logoColor=000000)
+![RS](https://img.shields.io/badge/TS-ffffff?logo=rust&style=flat&color=ffffff&logoColor=000000)
 
 
 * Et bien d'autres...
