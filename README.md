@@ -20,7 +20,7 @@ Projets
 Derniers projets
 
 # Éditeur Platon
-Platon est un éditeur de texte programmable en Rust prenant en charge de nombreux langages. Voici la documentation exhaustive des commandes disponibles en session interactive.
+Platon est un éditeur de texte programmable en Rust prenant en charge de nombreux langages.
 
 # PC Optimizer Console - Outil de maintenance Windows
 PC Optimizer Console est un utilitaire open-source développé en langage C pour Windows.
