@@ -9,9 +9,12 @@
 
 Présentation
 ------------
-Freelance 
-J'approffondis le python à la recherche de modules et de nouvelles technologies.
-J'apprends l'architecture Unix.
+Vincent R. ou Roussov -- Freelance 
+Retro_Dev >> intérêt pour les anciens langages
+Passion pour les langages machines
+Intérêt croissant pour les nouveaux 
+
+
 
 
 Projets
