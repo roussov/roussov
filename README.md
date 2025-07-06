@@ -12,7 +12,6 @@ Présentation
 Vincent R. ou Roussov -- Freelance 
 Retro_Dev >> intérêt pour les anciens langages
 Passion pour les langages machines
-Intérêt croissant pour les nouveaux 
 
 
 
