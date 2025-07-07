@@ -34,8 +34,6 @@ Platon est un éditeur de texte programmable en Rust prenant en charge de nombre
 
 * Et bien d'autres...
 
-# PC Optimizer Console - Outil de maintenance Windows
-PC Optimizer Console est un utilitaire open-source développé en langage C pour Windows.
 
 # 3DS - Éditeur & Interpréteur Python Minimaliste
 Py3DS est un projet d'éditeur de code Python accompagné d’un interpréteur minimaliste entièrement écrit en C. Il vise à fournir un environnement simple pour éditer, analyser et exécuter du code Python via un parsing manuel, AST et évaluation.
