@@ -1,11 +1,7 @@
 # roussov
 ### Hello World 👋
 
-==============
 
-*   [Présentation](#presentation)
-*   [Projets](#projets)
-*   [Objectifs](#objectifs)
 
 Présentation
 ------------
@@ -16,27 +12,6 @@ Passion pour les langages machines
 
 
 
-Projets
---------
-
-Derniers projets
-
-# Éditeur Platon
-Platon est un éditeur de texte programmable en Rust prenant en charge de nombreux langages:
-![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=05e851&logoColor=3776AB)
-![Ruby](https://img.shields.io/badge/Ruby-ffffff?logo=ruby&style=flat&color=ffffff&logoColor=CC342D)
-![C](https://img.shields.io/badge/C-ffffff?logo=c&style=flat&color=ffffff&logoColor=A8B9CC)
-![CPP](https://img.shields.io/badge/CPP-ffffff?logo=cplusplus&style=flat&color=ffffff&logoColor=00599C)
-![JS](https://img.shields.io/badge/JS-ffffff?logo=javascript&style=flat&color=ffffff&logoColor=F7DF1E)
-![TS](https://img.shields.io/badge/TS-ffffff?logo=typescript&style=flat&color=ffffff&logoColor=3178C6)
-
-
-
-* Et bien d'autres...
-
-
-# 3DS - Éditeur & Interpréteur Python Minimaliste
-Py3DS est un projet d'éditeur de code Python accompagné d’un interpréteur minimaliste entièrement écrit en C. Il vise à fournir un environnement simple pour éditer, analyser et exécuter du code Python via un parsing manuel, AST et évaluation.
 
 
 
