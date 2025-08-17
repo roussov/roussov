@@ -64,6 +64,6 @@ tout en explorant des solutions performantes, sûres et simples pour demain.
 
 ## 📫 Contact
 - GitHub : [@roussov](https://github.com/roussov)  
-- Email : *(ajoute ici ton adresse si tu veux la rendre publique)*  
+
 
 ---
