@@ -1,5 +1,5 @@
 # roussov
-### Hello World 👋
+### Hello World 
 
 <!-- Badges rapides -->
 <p align="left">
@@ -10,18 +10,18 @@
 
 ---
 
-## 👤 Présentation
+##  Présentation
 **Vincent R. (aka Roussov)**  
 Freelance développeur • Passionné de rétro-informatique • Explorateur des langages oubliés
 
-- 🔧 **Retro_Dev** : intérêt pour les anciens langages et les environnements disparus  
-- 💾 Passion pour les **langages machines**, l’assembleur et la programmation bas-niveau  
-- 🕰️ Curieux de l’histoire de l’informatique et des architectures atypiques  
-- 🚀 En parallèle, explorateur de nouveaux langages modernes pour créer des ponts entre passé et futur  
+-  **Retro_Dev** : intérêt pour les anciens langages et les environnements disparus  
+-  Passion pour les **langages machines**, l’assembleur et la programmation bas-niveau  
+-  Curieux de l’histoire de l’informatique et des architectures atypiques  
+-  En parallèle, explorateur de nouveaux langages modernes pour créer des ponts entre passé et futur  
 
 ---
 
-## 📜 Centres d’intérêt
+##  Centres d’intérêt
 - **Rétro-programmation** : BASIC, Pascal, Fortran, Lisp, COBOL…  
 - **Langages machines & assembleur** : Z80, 6502, x86, ARM  
 - **Langages modernes** : Rust, Go, Vitte (projet perso)  
@@ -30,7 +30,7 @@ Freelance développeur • Passionné de rétro-informatique • Explorateur des
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 - Développement **systèmes et bas-niveau**  
 - Écriture de **compilateurs et assembleurs**  
 - Création d’outils autour des **langages rétro**  
@@ -39,7 +39,7 @@ Freelance développeur • Passionné de rétro-informatique • Explorateur des
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 Relier **tradition** et **innovation** :  
 💡 Ramener la rigueur et la beauté des anciens langages dans un contexte moderne,  
 tout en explorant des solutions performantes, sûres et simples pour demain.  
@@ -62,7 +62,7 @@ tout en explorant des solutions performantes, sûres et simples pour demain.
 
 ---
 
-## 📫 Contact
+##  Contact
 - GitHub : [@roussov](https://github.com/roussov)  
 
 
